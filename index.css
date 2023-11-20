@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(rgb(197, 241, 247));
+}
+div{
+    background-color: rgb(12, 178, 243);
+}
+.do{
+    text-align: left;
+}
+.de{
+    color: green;
+}
